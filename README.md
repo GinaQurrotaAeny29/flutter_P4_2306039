@@ -40,7 +40,7 @@ Berikut adalah hasil tampilan aplikasi:
 <img width="775" height="1001" alt="image" src="https://github.com/user-attachments/assets/c67ffc70-e1b7-4b3d-a46f-0ac105410ca3" />
 
 
-> Catatan: Pastikan kamu menyimpan screenshot ke folder `assets` dengan nama `screenshot.png`
+
 
 ## Struktur Utama
 
