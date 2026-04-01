@@ -1,7 +1,3 @@
-Berikut README yang bisa langsung kamu copy ke GitHub untuk praktikum **Modul 4 – Stateful & Stateless Widget** sesuai tampilan pada gambar:
-
----
-
 # Praktikum Mobile – Pertemuan 4
 
 ## Stateful & Stateless Widget (Flutter)
